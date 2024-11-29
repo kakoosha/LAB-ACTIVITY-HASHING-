@@ -1,0 +1,18 @@
+Name: Tesha Kissa Planco 
+
+Year& Section: BSIT 2-TAB 
+
+GitHub username: Kakoosha 
+
+
+
+1.	This code creates a simple hash function called  Division Hashing . It takes a word jane and Cassandra and etc and turns it into a number. Then, it divides that number by the number of slots in the box (16) and uses the remainder to decide which slot the word goes into.
+
+
+
+2.	This code helps me see how collisions can happen.  It also shows me how many people you put or something end up in each slot.  You can see that some slots are have similar hash index ,  This is because the hash function doesn’t always distribute  evenly each slots. 
+
+
+
+3.	In real life it can help in many ways, like storing , passwords , and searching for information quickly , and helps you to know where slot you belong.
+
